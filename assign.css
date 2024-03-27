@@ -1,0 +1,24 @@
+button{
+    margin-bottom: 20px;
+    width: 200px;
+    height: 30px;
+    background-color: rgb(24, 24, 24);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    border-radius: 50%;
+}
+.container{
+    background-color: rgb(70, 70, 70);
+    width: 400px;
+    height: 500px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
